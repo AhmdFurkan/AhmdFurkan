@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdfurkan" /> </p>
 - 🌱 I’m currently learning **Software Architectures**
 
-- 👨‍💻 All of my projects are available at [lightsravens.com/projects](lightsravens.com/projects)
+- 👨‍💻 All of my projects are available at [akkuzgun.com/projects](akkuzgun.com/projects)
 
-- 📝 I regularly write articles on [lightsravens.com/blog](lightsravens.com/blog)
+- 📝 I regularly write articles on [akkuzgun.com/blog](akkuzgun.com/blog)
 
 - 📫 How to reach me **Ahmed.Furkan.2015@yandex.com**
 
-- 📄 Know about my experiences [lightsravens.com/aboutme](lightsravens.com/aboutme)
+- 📄 Know about my experiences [akkuzgun.com/aboutme](akkuzgun.com/aboutme/en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
