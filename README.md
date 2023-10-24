@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdfurkan" /> </p>
 - 🌱 I’m currently learning **Software Architectures**
 
-- 👨‍💻 All of my projects are available at [akkuzgun.com/projects](akkuzgun.com/projects)
+- 👨‍💻 All of my projects are available at [akkuzgun.com/projects](https://akkuzgun.com/projects)
 
-- 📝 I regularly write articles on [akkuzgun.com/blog](akkuzgun.com/blog)
+- 📝 I regularly write articles on [akkuzgun.com/blog](https://akkuzgun.com/blog)
 
 - 📫 How to reach me **Ahmed.Furkan.2015@yandex.com**
 
-- 📄 Know about my experiences [akkuzgun.com/aboutme](akkuzgun.com/aboutme/en)
+- 📄 Know about my experiences [akkuzgun.com/aboutme](https://akkuzgun.com/aboutme/en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdfurkan&" alt="ahmdfurkan" /></p>
 
 
-![snake gif](https://github.com/AhmdFurkan/AhmdFurkan/blob/output/github-contribution-grid-snake.gif)
